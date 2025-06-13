@@ -1,12 +1,5 @@
 # NBC Revenue Analysis
 
-## Table of Contents 
-
-- [Summary](summary)
-- [Report Overview Dasboard](report-overview-dashboard)
-- [Conclusion](conclusion) 
-- [Recommendations](recommendations) 
-
 
 ### Summary/ Project Overview
 
